@@ -1,0 +1,14 @@
+# ---- build / compiled output ----
+dist/
+build/
+
+# ---- large binaries & encrypted data ----
+*.exe
+*.pkg
+*.pkl
+*.enc
+*.key
+
+# ---- Python artifacts ----
+__pycache__/
+*.py[cod]
